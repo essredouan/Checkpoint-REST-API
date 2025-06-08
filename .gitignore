@@ -1,0 +1,14 @@
+# 📦 ملفات Node.js
+node_modules/
+
+# 🔐 معلومات حساسة
+config/.env
+
+# 🐛 ملفات الأخطاء واللوجات
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🖥️ ملفات النظام
+.DS_Store
+Thumbs.db
